@@ -4,5 +4,5 @@ All customized and Custom unyson shortcodes should be uploaded to your template 
 
 `/wp-content/themes/MYTHEME/framework-customizations/extensions/shortcodes/shortcodes/`
 
---
+---
 I will be happy to answer your questions: https://pinchukov.net/blog/unyson-shortcodes.html
